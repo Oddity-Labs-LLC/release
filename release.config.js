@@ -22,6 +22,10 @@ const releaseConfig = {
     {
       name: "alpha",
       prerelease: true
+    },
+    {
+      name: "develop",
+      prerelease: true
     }
   ],
   plugins: [],
